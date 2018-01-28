@@ -1,5 +1,5 @@
-# BincomInterview
-A solution for test questions from bincom's interview.
+# BI
+A solution for test questions.
 Simply run each file titled by the question's number.
 
-PS: see requirements.txt if needed, (most are probably pre-installed on your system 😉).
+PS: see requirements.txt if needed, (most are probably pre-installed). PostgreSQL required as well.
